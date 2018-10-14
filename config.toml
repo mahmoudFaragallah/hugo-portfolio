@@ -1,0 +1,50 @@
+baseurl         = "https://example.FeGo.com"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Example site"
+  subtitle    = "Mahmoud Ahmed Faragallah"
+
+  cover       = "uploads/header.jpg"
+  description = "Mahmoud's Awesome Example Site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "faragallah_a"
+  fbName = "EgyRamboOo"
+  githubName = "mahmoudFaragallah"
+
+  logo = "uploads/cover.gif"
+  orgName = "MAHMOUD FARAGALLAH"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "Mahmoud Faragallah"
+  authorAvatar = "uploads/profile.PNG"
+  authorLocation = "Bandung, ID"
+  authorWebsite = "https://eueung.github.io"
+  authorDescription = "Coder , Developer"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Main"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Google"
+  url = "https://google.com/"
+  weight = 95
