@@ -1,5 +1,5 @@
 baseurl         = "https://example.FeGo.com"
-theme           = "casper-two"
+theme           = "hugo-casper-two-master"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
