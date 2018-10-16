@@ -10,7 +10,7 @@ type = "page"
 weight = 111
 +++
 <div style="text-align: justify">  
- I'm a software engineer who enjoys leadership and mentoring. I'm fascinated by leverage and always looking for opportunities to increase team performance by acting as a force multiplier.My strong communication skills make me excellent at bridging business requirements with modern technology.I love building things.I'm most attracted to solving real customer problems with a business justification. I'm looking for a Junior individual contributor role where I can take on on collaborative team leadership responsibilites, and gain experience with architecture and project management.
+Reading to add a value description for my skills 
 </div>
 #### <u>Education</u>
 Bachelor of Science degree in Management Information Systems. 
