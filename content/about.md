@@ -32,4 +32,12 @@ C#,SQL,HTML,CSS
 * Agile methodologies.
 * Cloud experience.
 
- 
+#### TEDx Talks
+These are my favorite TEDx Talks:
+
+1. Don't Just Learn To Code, Learn To Create
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6rxWc-TNIJI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+2. A Software developer's secret to life 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uj0kReMs-gc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+2. How i taught myself to code 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmZR_JsLCfg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
